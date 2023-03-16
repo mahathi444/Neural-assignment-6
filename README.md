@@ -1,1 +1,3 @@
-# Neural-assignment-6
+Panyala Mahathi Reddy
+Neural assignment 6
+Student id: 700743307
